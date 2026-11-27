@@ -1,0 +1,10 @@
+{
+  "name": "gestor-tareas",
+  "version": "1.0.0",
+  "description": "CRUD de tareas en Node.js - Tarea 3 Git Flow",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT"
+}

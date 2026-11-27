@@ -1,0 +1,4 @@
+node_modules/
+tareas.json
+.vscode/
+.env
